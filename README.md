@@ -1,4 +1,4 @@
-## Hi there 👋
+##  Open Source repo👋
 
 <!--
 **dlckdgml-lang/dlckdgml-lang** is a ✨ _special_ ✨ repository because its `ai.sw lee chang hui.md` (this file) appears on your GitHub profile.
